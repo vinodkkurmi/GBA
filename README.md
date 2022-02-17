@@ -1,5 +1,5 @@
 
-##Gradient Based Activations for Accurate Bias-Free Learning
+## Gradient Based Activations for Accurate Bias-Free Learning
 Pytorch code for our GBA model please refer the [[Paper](https://vinodkkurmi.github.io/GBA)]
 
 Accepted at [[AAAI 2022](https://aaai.org/Conferences/AAAI-22/)]
